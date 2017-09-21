@@ -1,6 +1,5 @@
 //package f09211;
 
-
 import java.awt.*;
 import java.applet.*;
 public class MyFirstJava extends Applet{
